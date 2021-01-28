@@ -15,6 +15,6 @@ print (" %10.2f" %5.5)
 print (" %10.3f" %345.55678)
 print (" %010.3f" %345.55628)
 
-#print a expression
+#print a expression - string interpolation
 print (f"Sum of {3} and {4} is \t {3+4}")
 print (f"Sum of {3:5.2f} and {4.5:5.2f} is \t {3+4.5:5.2f}")
